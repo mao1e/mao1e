@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Machine Learning to explore more options in Computer Science as I start specialising further next year as a junior.**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1AtY9EPqKQeeJXCb-HZgsxhzPKY-C10tA/view?usp=share_link](https://drive.google.com/file/d/1AtY9EPqKQeeJXCb-HZgsxhzPKY-C10tA/view?usp=share_link)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1AtY9EPqKQeeJXCb-HZgsxhzPKY-C10tA/view?usp=share_link)
 
 - ⚡ Fun fact: **My dream job is to be a turkish ice cream seller**
 
