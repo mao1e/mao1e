@@ -25,3 +25,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mao1e&show_icons=true&locale=en" alt="mao1e" /></p>
 
+## Projects
+
+- [Abblix/Oidc.Server](https://github.com/Abblix/Oidc.Server#readme)
+
