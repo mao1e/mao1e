@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [here](https://drive.google.com/file/d/1AtY9EPqKQeeJXCb-HZgsxhzPKY-C10tA/view?usp=share_link)
 
-- ⚡ Fun fact: **My dream job is to be a turkish ice cream seller**
+- ⚡ Fun fact: **I have 10 YOE in audio Engineering**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
