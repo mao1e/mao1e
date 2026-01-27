@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mao1e&label=Profile%20views&color=0e75b6&style=flat" alt="mao1e" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mao1e" alt="mao1e" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mao1e" alt="mao1e" /></a> </p> -->
 
-- 🔭 I’m currently working on **Machine Learning analytics at Applied Materials this summer**
+- 🔭 I’m currently working on **TAing advanced systems programming**
 
-- 🌱 I’m currently learning **Machine Learning to explore more options in Computer Science as I start specialising further next year as a junior.**
+- 🌱 I’m currently learning **C++, High Performance Machine Learning and Blockchain technology**
 
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/1AtY9EPqKQeeJXCb-HZgsxhzPKY-C10tA/view?usp=share_link)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1wLW7UtQ1j0KA7jRoCuTVLl01Hmp25MTQ/view?usp=sharing)
 
 - ⚡ Fun fact: **I have 10 YOE in audio Engineering**
 
