@@ -27,5 +27,5 @@
 
 ## Projects
 
-- [Abblix/Oidc.Server](https://github.com/Abblix/Oidc.Server#readme)
+- [Machine Learning SVD-based Principal Component Analysis and Image decomposition](https://github.com/mao1e/Image-Decompression-project) - Lead a team to investigate the quantitative effect of Principal Component Analysis on real world data image decomposition as well as the speed and accuracy of Stochastic Gradient Descent(SGD) Classifier.
 
