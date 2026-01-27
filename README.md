@@ -27,6 +27,6 @@
 
 ## Projects
 - [Spanner-lite](https://gist.github.com/mao1e/c9e6ad3f9bfea62be747d0a921ddd7df) - Engineered a fault-tolerant, sharded Key/Value storage system using Paxos for consensus within replica groups and a Shard Master for dynamic, consistent shard migration during configuration changes (Join/Leave).
-- - [Grep-lite](https://gist.github.com/mao1e/83ebcda95030314a707868ccf83ea86a#file-hw2-avatar-main-part2-greptile-c) - Developed a command-line utility to recursively search directories for a string match, mimicking behavior of grep, including exit codes and output formatting and using system-level file handling (opendir, readdir, lstat, malloc. Engineered a multi-threaded version using POSIX threads, with a bounded ring buffer and FIFO print queue to coordinate thread-safe file search and synchronized output.
 - [Machine Learning SVD-based Principal Component Analysis and Image decomposition](https://github.com/mao1e/Image-Decompression-project) - Lead a team to investigate the quantitative effect of Principal Component Analysis on real world data image decomposition as well as the speed and accuracy of Stochastic Gradient Descent(SGD) Classifier.
+- [React consulting business](https://github.com/mao1e/theuniformpath) - launches a consulting business using React
 
