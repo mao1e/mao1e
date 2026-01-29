@@ -21,7 +21,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mao1e&show_icons=true&locale=en&layout=compact" alt="mao1e" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mao1e&show_icons=true&locale=en" alt="mao1e" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mao1e&show_icons=true&locale=en" alt="mao1e" /></p> -->
 
 ## Projects
 - [Spanner-lite](https://gist.github.com/mao1e/c9e6ad3f9bfea62be747d0a921ddd7df) - Engineered a fault-tolerant, sharded Key/Value storage system using Paxos for consensus within replica groups and a Shard Master for dynamic, consistent shard migration during configuration changes (Join/Leave).
