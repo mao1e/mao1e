@@ -7,9 +7,7 @@
 
 - 🔭 I’m currently working on **TAing advanced systems programming**
 
-- 🌱 I’m currently learning **C++, High Performance Machine Learning and Blockchain technology**
-
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/1wLW7UtQ1j0KA7jRoCuTVLl01Hmp25MTQ/view?usp=sharing)
+- 🌱 I’m currently learning **C++, High Performance Machine Learning and Blockchain**
 
 - ⚡ Fun fact: **I have 10 YOE in audio Engineering**
 
@@ -28,5 +26,4 @@
 ## Projects
 - [Spanner-lite](https://gist.github.com/mao1e/c9e6ad3f9bfea62be747d0a921ddd7df) - Engineered a fault-tolerant, sharded Key/Value storage system using Paxos for consensus within replica groups and a Shard Master for dynamic, consistent shard migration during configuration changes (Join/Leave).
 - [Machine Learning SVD-based Principal Component Analysis and Image decomposition](https://github.com/mao1e/Image-Decompression-project) - Lead a team to investigate the quantitative effect of Principal Component Analysis on real world data image decomposition as well as the speed and accuracy of Stochastic Gradient Descent(SGD) Classifier.
-- [React consulting business](https://github.com/mao1e/theuniformpath) - launches a consulting business using React
 
